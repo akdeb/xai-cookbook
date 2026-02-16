@@ -82,3 +82,19 @@
     - Zhaohan Dong
   tags:
     - function-calling
+
+- title: "ElatoAI: ESP32 Arduino Realtime AI Toys with Grok"
+  path: examples/esp32_arduino_realtime/guide.ipynb
+  date: 2026-02-16
+  description: "Build an ESP32 Arduino voice device with XAI Grok NextJS, Deno Edge Functions, and Supabase"
+  authors:
+    - Akashdeep Deb
+  tags:
+    - ai-toys
+    - voice-agents
+    - realtime
+    - esp32
+    - arduino
+    - deno
+    - supabase
+    - grok
